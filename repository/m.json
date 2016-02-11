@@ -1722,6 +1722,17 @@
 			]
 		},
 		{
+			"name": "Mp3Player",
+			"details": "https://github.com/RachitKansal/sublime-Mp3Player",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["linux", "windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/bkeller2/Mplus",
 			"releases": [
 				{
